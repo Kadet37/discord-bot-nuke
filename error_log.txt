@@ -1,0 +1,43 @@
+Sun Oct  2 12:34:27 2022 : invalid literal for int() with base 10: 'Bite'
+Sun Oct  2 14:59:46 2022 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
+Sun Oct  2 14:59:52 2022 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
+Tue Oct  4 17:11:06 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:06 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:07 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:26 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:27 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:28 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:30 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:32 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:34 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:35 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:36 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:38 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:39 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:40 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:41 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:43 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:44 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:45 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:46 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:46 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:46 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:47 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:47 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:47 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:48 2022 : 404 Not Found (error code: 10011): Unknown Role
+Tue Oct  4 17:11:48 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:48 2022 : 400 Bad Request (error code: 50028): Invalid Role
+Tue Oct  4 17:11:49 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:49 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:50 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:50 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:50 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:51 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:51 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:52 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:52 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:53 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:53 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:53 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Tue Oct  4 17:11:54 2022 : 403 Forbidden (error code: 50013): Missing Permissions
